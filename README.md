@@ -11,13 +11,13 @@ based on [mjml-utils](https://github.com/justinsisley/mjml-utils)
 Installing globally is the easiest way to get started, since you won't need any project-specific setup:
 
 ```bash
-npm install -g mjml-utils
+npm install -g mjml-utils-2
 ```
 
 Installing as a local dev-dependency gives you more flexibility:
 
 ```bash
-npm install -D mjml-utils
+npm install -D mjml-utils-2
 ```
 
 If you install __mjml-utils__ locally, you'll probably want to configure it to run via your `package.json` scripts. This method is encouraged, and an example of local usage via `package.json` scripts is provided [below](#npm-script-usage).
