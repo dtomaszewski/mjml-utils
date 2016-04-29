@@ -1,4 +1,4 @@
-# mjml-utils-2
+# mjml2-utils
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/justinsisley/mjml-utils/blob/master/LICENSE.md)
 
@@ -94,4 +94,4 @@ To keep better organization of releases this project follows the [Semantic Versi
 Want to contribute? [Follow these recommendations](https://github.com/justinsisley/mjml-utils/blob/master/CONTRIBUTING.md).
 
 ## License
-[MIT License](https://github.com/justinsisley/mjml-utils/blob/master/LICENSE.md) © [Justin Sisley](http://justinsisley.com/)
+[MIT License](https://github.com/justinsisley/mjml-utils/blob/master/LICENSE.md) ©
