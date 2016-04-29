@@ -1,4 +1,4 @@
-# mjml-utils
+# mjml-utils-2
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/justinsisley/mjml-utils/blob/master/LICENSE.md)
 
