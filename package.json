@@ -5,13 +5,13 @@
   "description": "The utility belt for MJML 2 developers",
   "repository": "https://github.com/dtomaszewski/mjml-utils-2",
   "license": "MIT",
-  "main": "./lib/mjml-utils.js",
+  "main": "./lib/mjml2-utils.js",
   "bin": {
-    "mjml-utils": "./lib/mjml-utils",
-    "mju": "./lib/mjml-utils"
+    "mjml-utils": "./lib/mjml2-utils",
+    "mju": "./lib/mjml2-utils"
   },
   "scripts": {
-    "compile": "babel ./src --out-dir ./lib --source-maps && mv lib/mjml-utils.js lib/mjml-utils",
+    "compile": "babel ./src --out-dir ./lib --source-maps && mv lib/mjml2-utils.js lib/mjml2-utils",
     "prepublish": "npm run compile",
     "lint": "eslint src"
   },
