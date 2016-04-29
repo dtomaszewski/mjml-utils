@@ -2,7 +2,9 @@
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/justinsisley/mjml-utils/blob/master/LICENSE.md)
 
-The utility belt for [MJML](https://mjml.io/) developers
+The utility belt for [MJML2](https://mjml.io/) developers
+
+based on [mjml-utils](https://github.com/justinsisley/mjml-utils)
 
 ## Installation
 
